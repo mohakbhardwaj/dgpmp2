@@ -1,1 +1,1 @@
-## Differentiabel Gaussian Process Motion Planning 
+## Differentiable Gaussian Process Motion Planning 
