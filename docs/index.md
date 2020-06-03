@@ -1,6 +1,6 @@
-Official page for Differentiable Gaussian Process Motion Planning presented at the International Conference on Robotics and Automation(ICRA), 2020.
+Official page for Differentiable Gaussian Process Motion Planning presented at the [International Conference on Robotics and Automation(ICRA), 2020](https://www.icra2020.org/).
 
-#### [Full paper (arXiv)](https://arxiv.org/abs/1907.09591)
+### [Full paper (arXiv)](https://arxiv.org/abs/1907.09591)
 
 ## <center> Overview </center>
 
