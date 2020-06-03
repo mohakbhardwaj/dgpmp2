@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: Differentiable Gaussian Process Motion Planning
 authors: Mohak Bhardwaj, Byron Boots, Mustafa Mukadam
 conference: International Conference on Robotics and Automation  (ICRA), 2020
+arxiv: https://arxiv.org/abs/1907.09591
